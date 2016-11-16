@@ -16,7 +16,7 @@ public class Mergetask1 {
 	}
 	
 	public void upcomingEvents() {
-		System.out.println("Upcoming Events");
+		System.out.println("Upcoming Events - Please join with us");
 		for (String event : events)
 			System.out.println(event);
 		
