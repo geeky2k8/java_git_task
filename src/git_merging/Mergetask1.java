@@ -1,3 +1,4 @@
+/** this is the test comment**/
 package git_merging;
 
 import java.util.ArrayList;
